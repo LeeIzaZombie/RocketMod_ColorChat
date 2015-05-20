@@ -1,0 +1,12 @@
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\ColorSay.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\ColorSay.pdb
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\Assembly-CSharp.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\Rocket.API.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\Rocket.Core.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\Rocket.Unturned.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\UnityEngine.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\obj\Debug\ColorSay.csprojResolveAssemblyReference.cache
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\obj\Debug\ColorSay.dll
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\obj\Debug\ColorSay.pdb
+c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\RocketAPI.dll
