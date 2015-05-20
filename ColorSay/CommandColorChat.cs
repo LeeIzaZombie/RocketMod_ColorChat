@@ -23,7 +23,7 @@ namespace ColorSay
         {
             string color = command[0].ToLower(), message = "";
             int i = 0;
-            if (command.Length >= 1)
+            if (command.Length != 0)
             {
                 foreach (string space in command)
                 {

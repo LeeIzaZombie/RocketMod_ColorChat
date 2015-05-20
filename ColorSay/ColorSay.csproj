@@ -31,22 +31,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="Rocket.API">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\Rocket.API.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\Rocket.API.dll</HintPath>
     </Reference>
     <Reference Include="Rocket.Core">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\Rocket.Core.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\Rocket.Core.dll</HintPath>
     </Reference>
     <Reference Include="Rocket.Unturned">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\Rocket.Unturned.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\Rocket.Unturned.dll</HintPath>
     </Reference>
     <Reference Include="RocketAPI">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\RocketAPI.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\RocketAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -56,7 +56,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\..\..\Desktop\Librarys\Rocket Mod\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Librarys\Rocket Mod\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

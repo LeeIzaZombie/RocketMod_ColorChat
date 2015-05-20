@@ -10,3 +10,15 @@ c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\ob
 c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\obj\Debug\ColorSay.dll
 c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\obj\Debug\ColorSay.pdb
 c:\users\leeizazombie\documents\visual studio 2013\Projects\ColorSay\ColorSay\bin\Debug\RocketAPI.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\ColorSay.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\ColorSay.pdb
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\Assembly-CSharp.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\Rocket.API.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\Rocket.Core.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\Rocket.Unturned.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\RocketAPI.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\bin\Debug\UnityEngine.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\obj\Debug\ColorSay.csprojResolveAssemblyReference.cache
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\obj\Debug\ColorSay.dll
+C:\Users\LeeIzaZombie\Documents\GitHub\RocketMod_ColorChat\ColorSay\obj\Debug\ColorSay.pdb
